@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PC Lenovo",
+      "price": "1400",
+      "img": "product1.webp",
+      "like": 0,
+      "quantity": 10,
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+    },
+    {
+      "0": {
+        "id": 1,
+        "name": "PC Lenovo",
+        "price": "1400",
+        "img": "product1.webp",
+        "like": 0,
+        "quantity": 10,
+        "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+      },
+      "name": "clavier",
+      "description": "addProd",
+      "price": "5",
+      "quantity": "6",
+      "img": "product3.jpg",
+      "id": 2
+    },
+    {
+      "0": {
+        "id": 1,
+        "name": "PC Lenovo",
+        "price": "1400",
+        "img": "product1.webp",
+        "like": 0,
+        "quantity": 10,
+        "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+      },
+      "1": {
+        "0": {
+          "id": 1,
+          "name": "PC Lenovo",
+          "price": "1400",
+          "img": "product1.webp",
+          "like": 0,
+          "quantity": 10,
+          "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+        },
+        "name": "baher ammari",
+        "description": "addProd",
+        "price": "5",
+        "quantity": "6",
+        "img": "product3.jpg",
+        "id": 2
+      },
+      "name": "souris",
+      "description": "haha",
+      "price": "322",
+      "quantity": "32",
+      "img": "product2.jpg",
+      "id": 3
+    }
+  ]
+}
